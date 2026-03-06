@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [ "XSQYAG2BQV.com.payflex.HealthHub.NOVA.UAT" ],
+        "components": [
+          {
+            "/": "/SignIn/MobileLogin/",
+            "comment": "QA MobileLogin url redirects the user back to mobile login screen."
+          }
+        ]
+      },
+      {
+        "appIDs": [ "XSQYAG2BQV.com.payflex.HealthHub" ],
+        "components": [
+          {
+            "/": "/SignIn/MobileLogin/",
+            "comment": "Production MobileLogin url redirects the user back to mobile login screen."
+          }
+        ]
+      }
+    ]
+  }
+}
