@@ -21,5 +21,11 @@
         ]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": [
+      "XSQYAG2BQV.com.payflex.HealthHub.NOVA.UAT",
+      "XSQYAG2BQV.com.payflex.HealthHub"
+    ]
   }
 }
